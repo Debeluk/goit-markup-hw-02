@@ -1,117 +1,119 @@
 :root {
-    --main-background: #FFFFFF;
-    --main-font-family: Roboto, serif;
-    --main-font-color: #2E2F42;
+  --main-background: #ffffff;
+  --main-font-family: Roboto, serif;
+  --main-font-color: #2e2f42;
 }
 
 .logo {
-    font-family: Raleway;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 3%;
-    font-size: 18px;
-    line-height: 1.2;
+  font-family: Raleway;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 3%;
+  font-size: 18px;
+  line-height: 1.2;
 }
 
 .logo1 {
-    color:#4D5AE5;
+  color: #4d5ae5;
 }
 
 .logo2header {
-    color:#2E2F42;
+  color: #2e2f42;
 }
 
 .logo2footer {
-    color: #F4F4FD;
+  color: #f4f4fd;
 }
 
-body{
-    background-color: var(--main-background);
-    font-family: var(--main-font-family);
-    color: var(--main-font-color);
+body {
+  background-color: var(--main-background);
+  font-family: var(--main-font-family);
+  color: var(--main-font-color);
 }
 
 header {
-    border: 1px solid #E7E9FC;
+  border: 1px solid #e7e9fc;
 }
 
 .nav {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 24px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
 }
 
-address{
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 2px;
-    color:#434455;
+address {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 2px;
+  color: #434455;
 }
 
-footer{
-    background-color: #2E2F42;
+footer {
+  background-color: #2e2f42;
 }
 
 .buttons-filter {
-    width: 116px;
-    height: 48px;
-    background: #F4F4FD;
-    border: 1px solid #E7E9FC;
-    border-radius: 4px;
-    cursor: pointer;
+  width: 116px;
+  height: 48px;
+  background: #f4f4fd;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
-.portfolio-list{
-    border: 1px solid #E7E9FC;
+.portfolio-list {
+  border: 1px solid #e7e9fc;
 }
 
-ul{
-    list-style-type: none;
+ul {
+  list-style-type: none;
 }
 
 .p-footer {
-    color:#F4F4FD;
+  color: #f4f4fd;
 }
 
-.hero{
-    background-color: #2E2F42;
+.hero {
+  background-color: #2e2f42;
 }
 
 .hero > h1 {
-    font-size: 56px;
-    font-weight: 900;
-    line-height: 1.1;
-    color:#FFFFFF;
+  font-size: 56px;
+  font-weight: 900;
+  line-height: 1.1;
+  color: #ffffff;
 }
 
 .hero-button {
-    width: 116px;
-    height: 48px;
-    background: #4D5AE5;
-    border: 1px solid #000000;
-    border-radius: 4px;
-    cursor: pointer;
-    color:#FFFFFF;
+  width: 116px;
+  height: 48px;
+  background: #4d5ae5;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #ffffff;
 }
 
-.team{
-    background-color: #F4F4FD;
+.team {
+  background-color: #f4f4fd;
 }
 
-.team-members{
-    border: 1px solid #E7E9FC;
-    background-color: #FFFFFF;
+.team-members {
+  border: 1px solid #e7e9fc;
+  background-color: #ffffff;
 }
 
-h1, h2 {
-    text-align: center;
+h1,
+h2 {
+  text-align: center;
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
 
-a:link, a:visited {
-    color:inherit;
+a:link,
+a:visited {
+  color: inherit;
 }
