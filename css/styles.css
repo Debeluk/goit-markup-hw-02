@@ -92,6 +92,7 @@ ul{
     border: 1px solid #000000;
     border-radius: 4px;
     cursor: pointer;
+    color:#FFFFFF;
 }
 
 .team{
@@ -105,4 +106,12 @@ ul{
 
 h1, h2 {
     text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color:inherit;
 }
