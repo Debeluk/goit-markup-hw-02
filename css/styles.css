@@ -1,0 +1,108 @@
+:root {
+    --main-background: #FFFFFF;
+    --main-font-family: Roboto, serif;
+    --main-font-color: #2E2F42;
+}
+
+.logo {
+    font-family: Raleway;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 3%;
+    font-size: 18px;
+    line-height: 1.2;
+}
+
+.logo1 {
+    color:#4D5AE5;
+}
+
+.logo2header {
+    color:#2E2F42;
+}
+
+.logo2footer {
+    color: #F4F4FD;
+}
+
+body{
+    background-color: var(--main-background);
+    font-family: var(--main-font-family);
+    color: var(--main-font-color);
+}
+
+header {
+    border: 1px solid #E7E9FC;
+}
+
+.nav {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+address{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color:#434455;
+}
+
+footer{
+    background-color: #2E2F42;
+}
+
+.buttons-filter {
+    width: 116px;
+    height: 48px;
+    background: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.portfolio-list{
+    border: 1px solid #E7E9FC;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.p-footer {
+    color:#F4F4FD;
+}
+
+.hero{
+    background-color: #2E2F42;
+}
+
+.hero > h1 {
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 1.1;
+    color:#FFFFFF;
+}
+
+.hero-button {
+    width: 116px;
+    height: 48px;
+    background: #4D5AE5;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.team{
+    background-color: #F4F4FD;
+}
+
+.team-members{
+    border: 1px solid #E7E9FC;
+    background-color: #FFFFFF;
+}
+
+h1, h2 {
+    text-align: center;
+}
