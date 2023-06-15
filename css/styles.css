@@ -35,6 +35,21 @@ body {
   color:#404bbf;
 }
 
+.logo:hover,
+.logo:focus{
+  color: #4d5ae5;
+}
+
+.logo-studio:hover,
+.logo-studio:focus{
+  color: #2e2f42;;
+}
+
+footer .logo-studio:hover,
+footer .logo-studio:focus {
+  color: #f4f4fd;
+}
+
 .list-navigation{
   font-weight: 500;
   font-size: 16px;
