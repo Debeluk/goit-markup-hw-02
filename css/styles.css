@@ -19,8 +19,8 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455; #
-  background-color: var(--main-bg-white);
+  color: #434455;
+  background-color: #FFFFFF;
 }
 
 .link{
@@ -64,13 +64,7 @@ footer > .logo-studio{
 
 .buttons-filter {
   background: #f4f4fd;
-  border: 1px solid #e7e9fc;
-  border-radius: 4px;
   cursor: pointer;
-}
-
-.portfolio-list {
-  border: 1px solid #e7e9fc;
 }
 
 .p-footer {
