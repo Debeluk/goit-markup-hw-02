@@ -1,6 +1,7 @@
 :root {
   --main-bg-white: #ffffff;
-  --main-text-color: #434455;
+  --main-text-color: #2e2f42;
+  --second-text-color: #434455;
 }
 
 .logo {
@@ -35,23 +36,27 @@ body {
   color: var(--main-text-color);
 }
 
+.list-navigation:hover,
+.list-navigation:focus{
+  color:#404bbf;
+}
+
+
 .list {
   list-style: none;
 }
 
-.list:hover,
-.list:focus {
-  color:#404bbf;
+.address {
+  font-size: 16px;
+  line-height: 1.5px;
+  letter-spacing: 0.02em;
+  color: var(--second-text-color);
+  font-style: normal;
 }
 
-address {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 2px;
-  color: #434455; 
-  font-style: normal;
-  letter-spacing: 0.02em;
+.address:hover,
+.address:focus{
+  color:#404bbf;
 }
 
 footer {
