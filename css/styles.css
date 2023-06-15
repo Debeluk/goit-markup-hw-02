@@ -5,7 +5,7 @@
 }
 
 .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   text-transform: uppercase;
   font-size: 18px;
@@ -21,28 +21,28 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
-.link{
+.link {
   text-decoration: none;
 }
 
 .link:hover,
-.link:focus{
-  color:#404bbf;
+.link:focus {
+  color: #404bbf;
 }
 
 .logo:hover,
-.logo:focus{
+.logo:focus {
   color: #4d5ae5;
 }
 
 .logo-studio:hover,
-.logo-studio:focus{
-  color: #2e2f42;;
+.logo-studio:focus {
+  color: #2e2f42;
 }
 
 footer .logo-studio:hover,
@@ -50,7 +50,7 @@ footer .logo-studio:focus {
   color: #f4f4fd;
 }
 
-.list-navigation{
+.list-navigation {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -79,7 +79,7 @@ footer .logo-studio:focus {
   font-weight: 900;
   line-height: 1.07;
   color: #ffffff;
-  letter-spacing:0.02em;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 
@@ -93,11 +93,11 @@ footer .logo-studio:focus {
 }
 
 .hero-button:hover,
-.hero-button:focus{
-  background-color: #404BBF;
+.hero-button:focus {
+  background-color: #404bbf;
 }
 
-.advantages-h{
+.advantages-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -110,13 +110,13 @@ footer .logo-studio:focus {
   letter-spacing: 0.02em;
 }
 
-.deeds-h{
+.deeds-h {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: var(--main-text-color)
+  color: var(--main-text-color);
 }
 
 .team {
@@ -127,16 +127,16 @@ footer .logo-studio:focus {
   background-color: #ffffff;
 }
 
-.team-h{
+.team-h {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color:var(--main-text-color)
+  color: var(--main-text-color);
 }
 
-.team-person-h{
+.team-person-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -144,7 +144,7 @@ footer .logo-studio:focus {
   color: var(--main-text-color);
 }
 
-.team-person-p{
+.team-person-p {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -156,8 +156,8 @@ footer {
   background-color: #2e2f42;
 }
 
-footer .logo-studio{
-  color:#f4f4fd;
+footer .logo-studio {
+  color: #f4f4fd;
   text-decoration: none;
 }
 .p-footer {
@@ -171,9 +171,9 @@ a {
 }
 
 .buttons-filter {
-  background: #F4F4FD;
+  background: #f4f4fd;
   cursor: pointer;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -183,9 +183,9 @@ a {
 }
 
 .buttons-filter:hover,
-.buttons-filter:focus{
-  background-color:#404BBF;
-  color:#FFFFFF;
+.buttons-filter:focus {
+  background-color: #404bbf;
+  color: #ffffff;
 }
 
 .portfolio-h {
