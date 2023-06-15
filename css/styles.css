@@ -12,12 +12,10 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
-  text-decoration: none;
 }
 
 .logo-studio {
   color: #2e2f42;
-  text-decoration: none;
 }
 
 body {
@@ -155,4 +153,8 @@ footer .logo-studio{
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+a {
+  text-decoration: none;
 }
