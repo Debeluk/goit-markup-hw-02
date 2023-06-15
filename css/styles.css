@@ -5,7 +5,7 @@
 }
 
 .logo {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   text-transform: uppercase;
   font-size: 18px;
@@ -69,13 +69,6 @@ footer .logo-studio:focus {
   color: var(--second-text-color);
   font-style: normal;
 }
-
-
-.buttons-filter {
-  background: #f4f4fd;
-  cursor: pointer;
-}
-
 
 .hero {
   background-color: #2e2f42;
@@ -175,4 +168,21 @@ footer .logo-studio{
 
 a {
   text-decoration: none;
+}
+
+.buttons-filter {
+  background: #F4F4FD;
+  cursor: pointer;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  cursor: pointer;
+}
+
+.buttons-filter:hover,
+.buttons-filter:focus{
+  background-color: #404BBF;
 }
